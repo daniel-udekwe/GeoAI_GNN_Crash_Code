@@ -1,0 +1,9 @@
+# Versions used for the paper (Python 3.13). Newer versions are likely to work.
+pandas>=3.0
+numpy>=2.5
+scipy>=1.18
+statsmodels>=0.15
+pyarrow>=26.0
+lightgbm>=4.7
+torch>=2.15
+matplotlib>=3.11

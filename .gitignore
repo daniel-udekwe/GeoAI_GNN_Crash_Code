@@ -1,0 +1,16 @@
+# HSIS data are licensed by FHWA and must not be committed
+data/
+*.csv
+!README*.csv
+# intermediate and output files
+run/
+*.parquet
+*.npz
+*.npy
+*.pt
+*.json
+*.log
+figures/
+parts/
+__pycache__/
+.ipynb_checkpoints/
